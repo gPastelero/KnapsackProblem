@@ -1,4 +1,4 @@
-# KnapsackProblem
+# KnapsackProblem - Dynamic Programming
 Given a limited inventory space, select the items that will give you the highest value while staying within the weight limit.
 
 proj3.c: the code for this project
